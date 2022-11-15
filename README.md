@@ -1,4 +1,4 @@
-# monet-cyclegan-tutorial
+# monet cyclegan tutorial
 
 # Introduction and Setup
 
